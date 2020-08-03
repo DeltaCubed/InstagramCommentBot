@@ -1,5 +1,5 @@
 # InstagramCommentBot
-Instructions on how to get started:
+## Instructions on how to get started:
 <pre>
 Copy the project with the terminal:
   git clone https://github.com/DeltaCubed/InstagramCommentBot.git
